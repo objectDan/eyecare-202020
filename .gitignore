@@ -1,0 +1,25 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime-generated settings
+eyecare_202020_config.txt
+
+# Build outputs
+build/
+dist/
+*.spec
+*.exe
+*.zip
+
+# Local editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local secrets
+.github_token
+.env
+
